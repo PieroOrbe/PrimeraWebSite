@@ -1,0 +1,47 @@
+body {
+    background-color: #dddddd;
+    border: 1px solid black;
+
+}
+header{
+    border: 1px solid black;
+}
+section{
+    border: 1px solid black;
+}
+footer{
+    border: 1px solid black;
+}
+div{
+    border: 1px solid black;
+}
+.contenedor {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    background-color: #7f7f7f;
+}
+
+a{
+    text-decoration: none;
+    color:#333;
+}
+
+.contenedor2 {
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 10px;
+    border: 1px solid #ccc; 
+}
+
+.contacto {
+    /* Puedes personalizar estilos según tus necesidades */
+    text-align: right;
+    color: red;
+}
+
+.titulo {
+    text-align: right;
+    justify-content: flex-start;
+}
