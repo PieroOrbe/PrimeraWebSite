@@ -45,3 +45,15 @@ a{
     text-align: right;
     justify-content: flex-start;
 }
+
+/*LOGIN*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat'; sans-serif;
+    
+}
+
+
+
